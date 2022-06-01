@@ -16,5 +16,6 @@ isfull() function will check the board is full or not.
 
 DEMO:
 ![Captur![Capture2](https://user-images.githubusercontent.com/92831062/171474665-2fb98f69-25a0-436a-9522-03ae9d0bc6e5.PNG)
-e](https://user-images.githubusercontent.com/92831062/171474646-dc5e6ae6-2fb6-4059-b2d7-742d6edcca7d.PNG)
+
 ![Capture3](https://user-images.githubusercontent.com/92831062/171474695-bd7f59ec-a68f-4389-8a04-1c838e4788d1.PNG)
+![Capture2](https://user-images.githubusercontent.com/92831062/171475690-2878ab89-3387-45bd-b898-e63346a51581.PNG)
